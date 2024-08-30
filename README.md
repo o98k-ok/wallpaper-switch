@@ -3,8 +3,10 @@
 
 ## Usage
 1. Very simple, input `cim` will be ok.
+
     ![alt text](assets/image.png)
 2. Enter to select the wallpaper.
+   
     ![alt text](assets/show.gif)
 
 ## History version
